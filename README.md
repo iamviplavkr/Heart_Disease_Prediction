@@ -122,12 +122,6 @@ Heart_Disease_Prediction/
 
 ---
 
-## 📝 Viva / Interview Ready Explanation
-
-> This project predicts heart disease using machine learning. It follows a complete ML pipeline including data preprocessing, stratified train-test split, model training using Logistic Regression, and evaluation using accuracy. Reproducibility is ensured using random_state.
-
----
-
 ## 🔮 Future Enhancements
 
 * Use advanced models (Random Forest, SVM, XGBoost)
